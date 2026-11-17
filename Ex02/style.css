@@ -1,0 +1,23 @@
+body{
+    background-color: #61abf1;
+}
+header{
+    color: #fff;
+    text-align: center;
+    margin: 20px 0;
+}
+section{
+    background-color: #f5f5f5;
+    padding: 20px;
+    width: 500px;
+    border-radius: 10px;
+    margin: 0 auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.286);
+}
+footer{
+    font-style: italic;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 14px;
+    color: #fffefe;
+}
